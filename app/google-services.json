@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433888436503",
+    "project_id": "collegearenaa",
+    "storage_bucket": "collegearenaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433888436503:android:5c36ea0dec608d0aacd752",
+        "android_client_info": {
+          "package_name": "com.example.collegearenaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433888436503-ebcr8psi7uh7p3n6v2b11pislr4clm1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCECLlABHhYGA_SCHXj_WZh_i9A55XRhvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433888436503-ebcr8psi7uh7p3n6v2b11pislr4clm1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

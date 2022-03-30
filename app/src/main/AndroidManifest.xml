@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.collegearena">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Collegearena">
+        <activity
+            android:name=".Ecesem8sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ecesem7sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ecesem6sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ecesem5sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ecesem4sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ecesem3sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ecesem2sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ecesem1sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EceprevqueActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EceprevsylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Csesem8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Csesem7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Csesem6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Csesem5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Csesem4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Csesem3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Csesem2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Csesem1sylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Sem1cseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CseprevsylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".JobsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChcolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EecolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CecolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MecolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EcecolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CsecolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MbbsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MtechActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BtechsylActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/actions" />
+
+        <activity
+            android:name=".HolidayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TopCollegeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GatechsylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GateeesylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GatecesylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GatemesylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GateecesylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GatecsitsylActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveloperActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SyllabusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MedicalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CsePreviousActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EngineeringActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GatePreviousYearActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GateSyllabusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
